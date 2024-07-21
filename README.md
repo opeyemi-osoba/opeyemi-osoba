@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Kotlin (Multi Platform) Projects
 - 💬 Ask me about Python or Kotlin, and about chords in Music 😉
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/opeyemi-emmanuel-osoba/)
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I love to do good Music
 
 ## Technologies and Tools I use:
