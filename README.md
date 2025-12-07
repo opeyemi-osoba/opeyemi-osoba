@@ -18,7 +18,7 @@
 
 
 ## About Me
-I'm a self taught developer with a Bachelor's degree in Mechanical Engineering. My Bachelor thesis was mainly based on developing algorithms for autonomous vehicles in the context of intralogistics. I'm also presently working as a Java Software Engineer for a company that provides Warehouse Automantion Solutions and also develops it's own Warehouse Management System(WMS) Software called SynQ.
+I'm a self taught developer with a Bachelor's degree in Mechanical Engineering. My Bachelor thesis was mainly based on developing algorithms for autonomous vehicles in the context of intralogistics. I'm also presently working as a Java Software Engineer for a company that provides Warehouse Automation Solutions and also develops it's own Warehouse Management System(WMS) Software called SynQ.
 
 Upon graduating, I had a weird idea of using a mobile app to track expenses during shopping, and this way, making sure the financial budget doesn't catch fire 🔥😆. I'm presently working on the prototype of this app 📱, and it's been a nice experience so far. I love the challenges! I love the opportunity to grow and learn new technologies! So far, I've also done a little bit of UI/UX design 🎨 and a bit of market research too 📊, in order to really create value for all the users who will eventually be interested in the product. So, in a nutshell, I'm also up to take on roles apart from/in addition to my developer role 🚀.
 
